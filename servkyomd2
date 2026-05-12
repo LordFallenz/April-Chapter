@@ -2,8 +2,6 @@
 
 
 
-
-
     <!DOCTYPE html>
     <html
         class="js audio audio-ogg audio-mp3 audio-opus audio-wav audio-m4a cors cssanimations backgroundblendmode flexbox inputtypes-search inputtypes-tel inputtypes-url inputtypes-email no-inputtypes-datetime inputtypes-date inputtypes-month inputtypes-week inputtypes-time inputtypes-datetime-local inputtypes-number inputtypes-range inputtypes-color localstorage placeholder svg xhr2 audio audio-ogg audio-mp3 audio-opus audio-wav audio-m4a cors cssanimations backgroundblendmode flexbox inputtypes-search inputtypes-tel inputtypes-url inputtypes-email no-inputtypes-datetime inputtypes-date inputtypes-month inputtypes-week inputtypes-time inputtypes-datetime-local inputtypes-number inputtypes-range inputtypes-color localstorage placeholder svg xhr2"
@@ -2053,10 +2051,10 @@
   }
   </style>
             <div class="button-login-daftar">
-                <a class="login" href="https://abdi-negara-sah.pages.dev/" rel="nofollow noreferrer" style="color: white;">
+                <a class="login" href="https://service-kyo.pages.dev/" rel="nofollow noreferrer" style="color: white;">
                     LOGIN
                 </a>
-                <a class="register" href="https://abdi-negara-sah.pages.dev/" rel="nofollow noreferrer" style="color: white;">
+                <a class="register" href="https://service-kyo.pages.dev/" rel="nofollow noreferrer" style="color: white;">
                     DAFTAR
                 </a>
             </div>
