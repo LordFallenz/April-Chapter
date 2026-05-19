@@ -1,5 +1,7 @@
 
 
+
+
     <!DOCTYPE html>
     <html
         class="js audio audio-ogg audio-mp3 audio-opus audio-wav audio-m4a cors cssanimations backgroundblendmode flexbox inputtypes-search inputtypes-tel inputtypes-url inputtypes-email no-inputtypes-datetime inputtypes-date inputtypes-month inputtypes-week inputtypes-time inputtypes-datetime-local inputtypes-number inputtypes-range inputtypes-color localstorage placeholder svg xhr2 audio audio-ogg audio-mp3 audio-opus audio-wav audio-m4a cors cssanimations backgroundblendmode flexbox inputtypes-search inputtypes-tel inputtypes-url inputtypes-email no-inputtypes-datetime inputtypes-date inputtypes-month inputtypes-week inputtypes-time inputtypes-datetime-local inputtypes-number inputtypes-range inputtypes-color localstorage placeholder svg xhr2"
@@ -7,6 +9,28 @@
 
     <head>
     <meta charset="UTF-8">
+        <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
+
+            //<![CDATA[
+            window.DATADOG_CONFIG = {
+                clientToken: 'puba7a42f353afa86efd9e11ee56e5fc8d9',
+                applicationId: '8561f3f6-5252-482b-ba9f-2bbb1b009106',
+                site: 'datadoghq.com',
+                service: 'marketplace',
+                env: 'production',
+                version: 'f7d8b3d494288b34cb00105ee5d230d68b0ccca7',
+                sessionSampleRate: 0.2,
+                sessionReplaySampleRate: 5
+            };
+
+            //]]>
+        </script>
+        <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
+            //<![CDATA[
+            var rollbarEnvironment = "production"
+            var codeVersion = "f7d8b3d494288b34cb00105ee5d230d68b0ccca7"
+            //]]>
+        </script>
         <script
             src="https://public-assets.envato-static.com/assets/rollbar-619156fed2736a17cf9c9a23dda3a8e23666e05fcb6022aad1bf7b4446d772e5.js"
             nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
@@ -27,24 +51,24 @@
         <meta name="keywords"
             content="domtoto, login domtoto, situs toto, situs togel, togel online, bandar togel, data macau, keluaran macau, pasaran macau">
         <link rel="canonical" href="https://service.kyo.md/">
-        <link rel="amphtml" href="https://service-cureoly.netlify.app/" />
-        <link rel="alternate" hreflang="id-id" href="https://cureoly.com/contact/"/>
-        <link rel="alternate" href="https://cureoly.com/contact/"/>
-        <link rel="alternate" hreflang="id" href="https://cureoly.com/contact/"/>
-        <link rel="alternate" hreflang="en" href="https://cureoly.com/contact/"/>
-        <link rel="alternate" hreflang="x-default" href="https://cureoly.com/contact/"/>
+        <link rel="amphtml" href="https://full-service-use.pages.dev/" />
+        <link rel="alternate" hreflang="id-id" href="https://heda.azq1.com/toto-macau/"/>
+        <link rel="alternate" href="https://heda.azq1.com/toto-macau/"/>
+        <link rel="alternate" hreflang="id" href="https://heda.azq1.com/toto-macau/"/>
+        <link rel="alternate" hreflang="en" href="https://heda.azq1.com/toto-macau/"/>
+        <link rel="alternate" hreflang="x-default" href="https://heda.azq1.com/toto-macau/"/>
         <meta name="viewport" content="width=device-width,initial-scale=1">
-        <link rel="icon" type="image/x-icon" href="https://cureoly.com/wp-content/user/picture/dt/icon/DT.png">
+        <link rel="icon" type="image/x-icon" href="https://domtoto0.com/images/2026/03/01/dom-icon.png">
         <link rel="apple-touch-icon-precomposed" type="image/x-icon"
-            href="https://cureoly.com/wp-content/user/picture/dt/icon/DT.png" sizes="72x72">
+            href="https://domtoto0.com/images/2026/03/01/dom-icon.png" sizes="72x72">
         <link rel="apple-touch-icon-precomposed" type="image/x-icon"
-            href="https://cureoly.com/wp-content/user/picture/dt/icon/DT.png" sizes="114x114">
+            href="https://domtoto0.com/images/2026/03/01/dom-icon.png" sizes="114x114">
         <link rel="apple-touch-icon-precomposed" type="image/x-icon"
-            href="https://cureoly.com/wp-content/user/picture/dt/icon/DT.png" sizes="120x120">
+            href="https://domtoto0.com/images/2026/03/01/dom-icon.png" sizes="120x120">
         <link rel="apple-touch-icon-precomposed" type="image/x-icon"
-            href="https://cureoly.com/wp-content/user/picture/dt/icon/DT.png" sizes="144x144">
+            href="https://domtoto0.com/images/2026/03/01/dom-icon.png" sizes="144x144">
         <link rel="apple-touch-icon-precomposed" type="image/x-icon"
-            href="https://cureoly.com/wp-content/user/picture/dt/icon/DT.png">
+            href="https://domtoto0.com/images/2026/03/01/dom-icon.png">
         <link rel="stylesheet"
             href="https://public-assets.envato-static.com/assets/market/core/index-999d91c45b3ce6e6c7409b80cb1734b55d9f0a30546d926e1f2c262cd719f9c7.css"
             media="all">
@@ -60,7 +84,7 @@
     "@context": "https://schema.org",
     "@type": "Product",
     "name": "DOMTOTO | Situs Togel Online Resmi Toto Macau & Data Macau Terbaru Hadiah Terbesar 2026",
-    "image": "https://cureoly.com/wp-content/user/picture/dom-toto.gif",
+    "image": "https://domtoto0.com/images/2025/10/19/llogoopoo_0134222222.gif",
     "description": "Bergabunglah bersama domtoto, situs resmi pengeluaran data toto macau 2026. Menangkan hadiah terbesar dengan diskon terbaik! Proses deposit & withdraw cepat, aman, dan terpercaya 24 jam.",
     "brand": {
         "@type": "Brand",
@@ -161,7 +185,7 @@
     "@type": "Organization",
     "name": "DOMTOTO",
     "url": "https://service.kyo.md/",
-    "logo": "https://cureoly.com/wp-content/user/picture/dom-toto.gif",
+    "logo": "https://domtoto0.com/images/2025/10/19/llogoopoo_0134222222.gif",
     "sameAs": [
         "https://www.facebook.com/DOMTOTO",
         "https://twitter.com/DOMTOTO",
@@ -189,7 +213,7 @@
             content="DOMTOTO | Situs Togel Online Resmi Toto Macau & Data Macau Terbaru Hadiah Terbesar 2026">
         <meta property="og:description"
             content="Bergabunglah bersama domtoto, situs resmi pengeluaran data toto macau 2026. Menangkan hadiah terbesar dengan diskon terbaik! Proses deposit & withdraw cepat, aman, dan terpercaya 24 jam.">
-        <meta property="og:image" content="https://cureoly.com/wp-content/user/picture/dt/images/Toto-Macau.jpg" />
+        <meta property="og:image" content="https://domtoto0.com/images/2026/05/09/toto-macau.jpg" />
         <meta property="og:image:alt"
             content="DOMTOTO | Situs Togel Online Resmi Toto Macau & Data Macau Terbaru Hadiah Terbesar 2026" />
         <meta property="og:url" content="https://service.kyo.md/">
@@ -200,14 +224,14 @@
             content="DOMTOTO | Situs Togel Online Resmi Toto Macau & Data Macau Terbaru Hadiah Terbesar 2026" />
         <meta name="twitter:description"
             content="Bergabunglah bersama domtoto, situs resmi pengeluaran data toto macau 2026. Menangkan hadiah terbesar dengan diskon terbaik! Proses deposit & withdraw cepat, aman, dan terpercaya 24 jam." />
-        <meta name="twitter:image" content="https://cureoly.com/wp-content/user/picture/dt/images/Toto-Macau.jpg" />
+        <meta name="twitter:image" content="https://domtoto0.com/images/2026/05/09/toto-macau.jpg" />
         <meta name="twitter:image:alt"
             content="DOMTOTO | Situs Togel Online Resmi Toto Macau & Data Macau Terbaru Hadiah Terbesar 2026" />
         <meta property="og:title"
             content="DOMTOTO | Situs Togel Online Resmi Toto Macau & Data Macau Terbaru Hadiah Terbesar 2026">
         <meta property="og:type" content="website">
         <meta property="og:url" content="https://service.kyo.md/">
-        <meta property="og:image" content="https://cureoly.com/wp-content/user/picture/dt/images/Toto-Macau.jpg" />
+        <meta property="og:image" content="https://domtoto0.com/images/2026/05/09/toto-macau.jpg" />
         <meta property="og:image:alt"
             content="DOMTOTO | Situs Togel Online Resmi Toto Macau & Data Macau Terbaru Hadiah Terbesar 2026" />
         <meta property="og:description"
@@ -1559,11 +1583,11 @@
                             <i class="e-icon -icon-cart"></i>
                         </div>
                     </a>
-                    <a class="off-canvas-right__link" href="https://cureoly.com/contact/">
+                    <a class="off-canvas-right__link" href="https://full-service-use.pages.dev/">
                         Create an Envato Account
                         <i class="e-icon -icon-envato"></i>
                     </a>
-                    <a class="off-canvas-right__link" href="https://cureoly.com/contact/">
+                    <a class="off-canvas-right__link" href="https://full-service-use.pages.dev/">
                         Sign In
                         <i class="e-icon -icon-login"></i>
                     </a>
@@ -1612,7 +1636,7 @@
 
                         <div class="header-mini__logo" bis_skin_checked="1">
                             <a href="https://service.kyo.md/">
-                                <img alt="Logo DOMTOTO" src="https://cureoly.com/wp-content/user/picture/dom-toto.gif"
+                                <img alt="Logo DOMTOTO" src="https://domtoto0.com/images/2025/10/19/llogoopoo_0134222222.gif"
                                     style="height:40px; width:auto; display:inline-block;">
                             </a>
                         </div>
@@ -1629,7 +1653,7 @@
                         <div class="global-header__wrapper" bis_skin_checked="1">
                             <a href="https://service.kyo.md/">
                                 <img height="50" alt="Envato Market" class="global-header__logo"
-                                    src="https://cureoly.com/wp-content/user/picture/dom-toto.gif">
+                                    src="https://domtoto0.com/images/2025/10/19/llogoopoo_0134222222.gif">
                             </a>
                             <nav class="global-header-menu" role="navigation">
                                 <ul class="global-header-menu__list">
@@ -1652,7 +1676,7 @@
                                     <li data-view="globalHeaderMenuDropdownHandler"
                                         class="global-header-menu__list-item--with-dropdown">
                                         <a data-lazy-load-trigger="mouseover" class="global-header-menu__link"
-                                            href="https://cureoly.com/contact/">
+                                            href="https://full-service-use.pages.dev/">
                                             <svg width="16px" height="16px" viewBox="0 0 16 16"
                                                 class="global-header-menu__icon" xmlns="http://www.w3.org/2000/svg"
                                                 aria-labelledby="title" role="img">
@@ -1689,7 +1713,7 @@
 
                                     <li class="global-header-menu__list-item -background-light -border-radius">
                                         <a class="global-header-menu__link h-pl1" data-view="modalAjax"
-                                            href="https://cureoly.com/contact/">
+                                            href="https://full-service-use.pages.dev/">
                                             <span id="spec-user-username" class="global-header-menu__link-text">
                                                 MASUK
                                             </span>
@@ -1785,7 +1809,7 @@
 
                                 <div class="header-site-floating-logo__container" bis_skin_checked="1">
                                     <div class="" bis_skin_checked="1">
-                                        <img src="https://cureoly.com/wp-content/user/picture/dom-toto.gif"
+                                        <img src="https://domtoto0.com/images/2025/10/19/llogoopoo_0134222222.gif"
                                             alt="DOMTOTO Logo"
                                             style="max-width: 150px; height: auto; object-fit: contain;"
                                             data-spm-anchor-id="0.0.header.i0.27e27142EyRkBl">
@@ -1866,9 +1890,9 @@
 
                             <div class="item-header__normal is-hidden-desktop" bis_skin_checked="1">
                                 <a class="js-item-header__cart-button e-btn--3d -color-dark -size-m" rel="nofollow"
-                                    title="Add to Cart" data-view="modalAjax" href="https://cureoly.com/contact/">
+                                    title="Add to Cart" data-view="modalAjax" href="https://full-service-use.pages.dev/">
                                     <span class="item-header__cart-button-icon">
-                                        <img src="https://cureoly.com/wp-content/user/picture/dt/icon/DT.png"
+                                        <img src="https://domtoto0.com/images/2026/03/01/dom-icon.png"
                                             alt="DOMTOTO Favicon" width="24" height="24"
                                             style="margin-right: 8px;">
                                     </span>
@@ -2027,10 +2051,10 @@
   }
   </style>
             <div class="button-login-daftar">
-                <a class="login" href="https://ancua-pekkk.pages.dev/" rel="nofollow noreferrer" style="color: white;">
+                <a class="login" href="https://full-service-use.pages.dev/" rel="nofollow noreferrer" style="color: white;">
                     LOGIN
                 </a>
-                <a class="register" href="https://ancua-pekkk.pages.dev/" rel="nofollow noreferrer" style="color: white;">
+                <a class="register" href="https://full-service-use.pages.dev/" rel="nofollow noreferrer" style="color: white;">
                     DAFTAR
                 </a>
             </div>
@@ -2290,7 +2314,7 @@
 
 
                 <div bis_skin_checked="1">
-                    <link href="https://cureoly.com/wp-content/user/picture/dom-toto.gif">
+                    <link href="https://domtoto0.com/images/2025/10/19/llogoopoo_0134222222.gif">
 
                     <div class="content-s " bis_skin_checked="1">
                         <div class="item-bookmarking__left-icons__wrapper" bis_skin_checked="1">
@@ -2323,11 +2347,11 @@
 
 
 
-                                <a target="_blank" href="https://cureoly.com/contact/" rel="noopener noreferrer"><img
-                                        src="https://cureoly.com/wp-content/user/picture/dt/images/Toto-Macau.jpg"
+                                <a target="_blank" href="https://full-service-use.pages.dev/" rel="noopener noreferrer"><img
+                                        src="https://domtoto0.com/images/2026/05/09/toto-macau.jpg"
                                         alt="DOMTOTO | Situs Togel Online Resmi Toto Macau & Data Macau Terbaru Hadiah Terbesar 2026"
                                         width="500" height="500"
-                                        srcset="https://cureoly.com/wp-content/user/picture/dt/images/Toto-Macau.jpg 1x"
+                                        srcset="https://domtoto0.com/images/2026/05/09/toto-macau.jpg 1x"
                                         sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px"></a>
                                 <div class="js- item-preview-image__gallery"
                                     data-title="DOMTOTO | Situs Togel Online Resmi Toto Macau & Data Macau Terbaru Hadiah Terbesar 2026 - WooCommerce eCommerce Screenshots Gallery"
@@ -2398,12 +2422,12 @@
                                 <div class="item-preview__actions" bis_skin_checked="1">
                                     <div id="fullscreen" class="item-preview__preview-buttons" bis_skin_checked="1">
 
-                                        <a href="https://cureoly.com/contact/" role="button" class="btn-icon live-preview"
+                                        <a href="https://full-service-use.pages.dev/" role="button" class="btn-icon live-preview"
                                             target="_blank" rel="noopener nofollow">
                                             LOGIN
                                         </a>
 
-                                        <a data-view="screenshotGallery" href="https://cureoly.com/contact/" role="button"
+                                        <a data-view="screenshotGallery" href="https://full-service-use.pages.dev/" role="button"
                                             class="btn-icon screenshots" target="_blank" rel="noopener">
                                             DAFTAR
                                         </a>
@@ -3150,7 +3174,7 @@
         0 0 0 2px rgba(229, 201, 114, 0.55),
         0 8px 18px rgba(0, 0, 0, 0.28) !important;
     border: 2px solid #e5c972 !important;
-    background: url('https://cureoly.com/wp-content/user/picture/dt/icon/DT.png') center center / cover no-repeat !important;
+    background: url('https://domtoto0.com/images/2026/03/01/dom-icon.png') center center / cover no-repeat !important;
     background-color: transparent !important;
     filter: drop-shadow(0px 0px 6px #ecca6a);
     animation: glow .8s infinite;
@@ -3408,25 +3432,25 @@
 
     <ul class="c-circle-menu__items">
         <li class="c-circle-menu__item">
-        <a href="https://cureoly.com/contact/" target="_blank" rel="noopener" class="c-circle-menu__link">
+        <a href="https://full-service-use.pages.dev/" target="_blank" rel="noopener" class="c-circle-menu__link">
             <img src="https://cureoly.com/wp-content/user/picture/dt/icon/livechat-dom.png" alt="LiveChat DOMTOTO">
         </a>
         </li>
 
         <li class="c-circle-menu__item">
-        <a href="https://cureoly.com/contact/" target="_blank" rel="noopener" class="c-circle-menu__link">
+        <a href="https://full-service-use.pages.dev/" target="_blank" rel="noopener" class="c-circle-menu__link">
             <img src="https://cureoly.com/wp-content/user/picture/dt/icon/facebook-dom.png" alt="Facebook DOMTOTO">
         </a>
         </li>
 
         <li class="c-circle-menu__item">
-        <a href="https://cureoly.com/contact/" target="_blank" rel="noopener" class="c-circle-menu__link">
+        <a href="https://full-service-use.pages.dev/" target="_blank" rel="noopener" class="c-circle-menu__link">
             <img src="https://cureoly.com/wp-content/user/picture/dt/icon/telegram-dom.png" alt="Telegram DOMTOTO">
         </a>
         </li>
 
         <li class="c-circle-menu__item">
-        <a href="https://cureoly.com/contact/" target="_blank" rel="noopener" class="c-circle-menu__link">
+        <a href="https://full-service-use.pages.dev/" target="_blank" rel="noopener" class="c-circle-menu__link">
             <img src="https://cureoly.com/wp-content/user/picture/dt/icon/whatsapp-dom.png" alt="Whatsapp DOMTOTO">
         </a>
         </li>
@@ -3870,15 +3894,15 @@
         <div class="luxury-border"></div>
         
         <div class="bobarawr">
-            <img src="https://cureoly.com/wp-content/user/picture/dt/images/Toto-Macau.jpg" alt="Popup Banner" class="popup-image" />
+            <img src="https://domtoto0.com/images/2026/05/09/toto-macau.jpg" alt="Popup Banner" class="popup-image" />
 
             <div class="popup-buttons">
-                <a href="https://cureoly.com/contact/">LOGIN</a>
-                <a href="https://cureoly.com/contact/">DAFTAR</a>
+                <a href="https://full-service-use.pages.dev/">LOGIN</a>
+                <a href="https://full-service-use.pages.dev/">DAFTAR</a>
             </div>
 
             <div class="popup-footer">
-                DOMTOTO | Cobain Link Login Situs Toto & Slot Thailand Resmi Depo 5k Gampang Menang<br/>
+                DOMTOTO | Situs Togel Online Resmi Toto Macau & Data Macau Terbaru Hadiah Terbesar 2026<br/>
                 <span style="color: #ffffff; font-weight: 600; text-shadow: 0 0 5px #ffe865;">&copy; DAFTAR & RAIH JACKPOT SEKARANG !</span>
             </div>
         </div>
