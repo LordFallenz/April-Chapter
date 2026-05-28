@@ -17,15 +17,15 @@
   <link rel="alternate" type="application/rss+xml" title="Rss Service Feed" href="https://www.seoclerk.com/rss" />
   <!-- Canonical -->
   <link rel="canonical" href="https://campus.weareshifta.com/">
-  <link rel="amphtml" href="https://campus-elearning-weareshifta.pages.dev/" />
-  <link rel="alternate" href="https://campus.weareshifta.com/performance/"> 
-  <link rel="alternate" href="https://campus.weareshifta.com/performance/" hreflang="id">
-  <link rel="alternate" href="https://campus.weareshifta.com/performance/" hreflang="en">
-  <link rel="alternate" href="https://campus.weareshifta.com/performance/" hreflang="en">
-  <link rel="alternate" href="https://campus.weareshifta.com/performance/" hreflang="x-default">
-  <link rel="alternate" hreflang="id-ID" href="https://campus.weareshifta.com/performance/" />
-  <link rel="alternate" hreflang="en-US" href="https://campus.weareshifta.com/performance/" />
-  <link rel="alternate" hreflang="en-SG" href="https://campus.weareshifta.com/performance/" />
+  <link rel="amphtml" href="https://learning-weare-shifta.pages.dev/" />
+  <link rel="alternate" href="https://fest.dsathen.gr/universities/"> 
+  <link rel="alternate" href="https://fest.dsathen.gr/universities/" hreflang="id">
+  <link rel="alternate" href="https://fest.dsathen.gr/universities/" hreflang="en">
+  <link rel="alternate" href="https://fest.dsathen.gr/universities/" hreflang="en">
+  <link rel="alternate" href="https://fest.dsathen.gr/universities/" hreflang="x-default">
+  <link rel="alternate" hreflang="id-ID" href="https://fest.dsathen.gr/universities/" />
+  <link rel="alternate" hreflang="en-US" href="https://fest.dsathen.gr/universities/" />
+  <link rel="alternate" hreflang="en-SG" href="https://fest.dsathen.gr/universities/" />
   <!-- Google gsi login -->
   <script defer referrerpolicy="origin" src="/cdn-cgi/zaraz/s.js?z=JTdCJTIyZXhlY3V0ZWQlMjIlM0ElNUIlMjJQYWdldmlldyUyMiU1RCUyQyUyMnQlMjIlM0ElMjJXV0dTTE9UJTIwQUdFTiUyMFNMT1QlMjBNQVhXSU4lMjBERVBPJTIwNUslMjAlMjYlMjBCQU5EQVIlMjBTTE9UJTIwR0FDT1IlMjBURVJQRVJDQVlBJTIwSU5ET05FU0lBJTIwLSUyMEpBTUJJJTIwTkVXUyU1Q24lMjAlMjAlMjAlMjAlMjIlMkMlMjJ4JTIyJTNBMC4zODEzNzQwMzI0Njk0NjYzMyUyQyUyMnclMjIlM0E0MTIlMkMlMjJoJTIyJTNBNzMyJTJDJTIyaiUyMiUzQTczMiUyQyUyMmUlMjIlM0E0MTIlMkMlMjJsJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZpbWNuZXdzLmlkJTJGa2F0ZWdvcmklMkZqYW1iaS10ZXJraW5pJTIyJTJDJTIyciUyMiUzQSUyMiUyMiUyQyUyMmslMjIlM0EyNCUyQyUyMm4lMjIlM0ElMjJVVEYtOCUyMiUyQyUyMm8lMjIlM0E0MjAlMkMlMjJxJTIyJTNBJTVCJTdCJTIybSUyMiUzQSUyMmVjb21tZXJjZSUyMiUyQyUyMmElMjIlM0ElNUIlMjJQcm9kdWN0JTIwVmlld2VkJTIyJTJDJTdCJTIycHJvZHVjdF9pZCUyMiUzQSUyMjg4OTg4OSUyMiUyQyUyMm5hbWUlMjIlM0ElMjJXV0dTTE9UJTIwQUdFTiUyMFNMT1QlMjBNQVhXSU4lMjBERVBPJTIwNUslMjAlMjYlMjBCQU5EQVIlMjBTTE9UJTIwR0FDT1IlMjBURVJQRVJDQVlBJTIwSU5ET05FU0lBJTIwLSUyMEpBTUJJJTIwTkVXUyUyMiUyQyUyMnByaWNlJTIyJTNBJTIyMjAwJTIyJTJDJTIyY3VycmVuY3klMjIlM0ElMjJVU0QlMjIlMkMlMjJ2YWx1ZSUyMiUzQSUyMjIwMCUyMiU3RCU1RCU3RCU1RCU3RA=="></script><script src="https://accounts.google.com/gsi/client" async="" defer></script>
   <script>function handleCredentialResponse(response){$.ajax({url:location.protocol+'//'+location.host+'/signup',type:'POST',data:jQuery.param({'id_token':JSON.stringify(parseJwt(response.credential))}),cache:false,success:function(response){location.reload();}});}window.onload=function(){google.accounts.id.initialize({client_id:"548068955564-6kb76etreqr03m8r80hdong6qi9lndr1.apps.googleusercontent.com",callback:handleCredentialResponse,use_fedcm_for_prompt:"true"});google.accounts.id.renderButton(document.getElementById("buttonGoogle"),{theme:"outline",size:"large",width:"310",height:"44"});google.accounts.id.renderButton(document.getElementById("buttonGoogleSignup"),{theme:"outline",size:"large",width:"310",height:"44"});google.accounts.id.prompt();}</script>
@@ -1264,7 +1264,7 @@
             </p>
           </form>
           <div class="text-center mt-1 p-link" bis_skin_checked="1">
-            Already have an account? <a data-toggle="modal" href="https://campus-elearning-weareshifta.pages.dev/" data-dismiss="modalSignup" class="modal-fade">Login</a>
+            Already have an account? <a data-toggle="modal" href="https://learning-weare-shifta.pages.dev/" data-dismiss="modalSignup" class="modal-fade">Login</a>
           </div>
           <div class="text-center mt-3 mb-3" bis_skin_checked="1">
             <span class="divider-text">OR</span>
@@ -1284,7 +1284,7 @@
           <button class="close" type="button" data-dismiss="modal" aria-label="Close"><span aria-hidden="true"><i class="fas fa-times"></i></span></button>
         </div>
         <div class="modal-body ml-4 mr-4" bis_skin_checked="1">
-          <form action="https://campus-elearning-weareshifta.pages.dev/" method="post" class="ajaxModalFormSubmit modal-shadow" id="loginCheck" data-parsley-validate="" novalidate="">
+          <form action="https://learning-weare-shifta.pages.dev/" method="post" class="ajaxModalFormSubmit modal-shadow" id="loginCheck" data-parsley-validate="" novalidate="">
             <input type="hidden" name="modal" value="modalLogin" />
             <input type="hidden" name="droplet" value="" />
             <input type="hidden" name="success" value="Package created!" />
@@ -1322,7 +1322,7 @@
             <input class="btn btn-primary margin-bottom-none btn-block" value="Sign In" type="submit" />
           </form>
           <div class="text-center mt-1 p-link" bis_skin_checked="1">
-            Do not have an account? <a data-toggle="modal" href="https://campus-elearning-weareshifta.pages.dev/" data-dismiss="modalLogin" class="modal-fade navi-link" id="modalLoginSingup">Sign Up</a>
+            Do not have an account? <a data-toggle="modal" href="https://learning-weare-shifta.pages.dev/" data-dismiss="modalLogin" class="modal-fade navi-link" id="modalLoginSingup">Sign Up</a>
           </div>
           <div class="text-center mt-3 mb-3" bis_skin_checked="1">
             <span class="divider-text">OR</span>
@@ -1359,7 +1359,7 @@
             <input class="btn btn-primary margin-bottom-none btn-block" value="Recover Password" type="submit" />
           </form>
           <div class="text-center mt-1 p-link" bis_skin_checked="1">
-            Remember your password? <a data-toggle="modal" href="https://campus-elearning-weareshifta.pages.dev/" data-dismiss="modalForgot" class="modal-fade">Login</a>
+            Remember your password? <a data-toggle="modal" href="https://learning-weare-shifta.pages.dev/" data-dismiss="modalForgot" class="modal-fade">Login</a>
           </div>
         </div>
       </div>
@@ -1578,10 +1578,10 @@
           </ul>
         </li>
         <li class="has-megamenu">
-          <a class="rating-link" data-toggle="modal" href="https://campus-elearning-weareshifta.pages.dev/"><span>Sell a
+          <a class="rating-link" data-toggle="modal" href="https://learning-weare-shifta.pages.dev/"><span>Sell a
           Service</span></a>
         </li>
-        <!-- <li><span><a href="https://campus-elearning-weareshifta.pages.dev/">Sell a Service</a></span></li> --></ul>
+        <!-- <li><span><a href="https://learning-weare-shifta.pages.dev/">Sell a Service</a></span></li> --></ul>
       <div class="sub-menu-nav" bis_skin_checked="1">
         <ul class="sub-nav">
           <li><a class="text-normal" href="https://campus.weareshifta.com/" title="SLOT777">SLOT777</a>
@@ -1623,8 +1623,8 @@
               </div>
             </ul>
           </div>
-          <a data-toggle="modal" href="https://campus-elearning-weareshifta.pages.dev/" class="btn btn-outline-secondary ml-3 hidden-sm-down"><span>Sign In</span></a>
-          <a data-toggle="modal" href="https://campus-elearning-weareshifta.pages.dev/" class="btn btn-primary"><span>Join</span></a>
+          <a data-toggle="modal" href="https://learning-weare-shifta.pages.dev/" class="btn btn-outline-secondary ml-3 hidden-sm-down"><span>Sign In</span></a>
+          <a data-toggle="modal" href="https://learning-weare-shifta.pages.dev/" class="btn btn-primary"><span>Join</span></a>
         </div>
       </div>
     </div>
@@ -1650,11 +1650,11 @@
           <!-- Poduct Gallery-->
           <div class="row" bis_skin_checked="1">
             <div class="col-12 hidden-md-up" bis_skin_checked="1">
-              <center><a href="https://campus-elearning-weareshifta.pages.dev/" target="_blank">
+              <center><a href="https://learning-weare-shifta.pages.dev/" target="_blank">
                 <img style="display:block;margin-left:auto;margin-right:auto;" src="https://imgsaya.io/download/0ye21aVv.png" width="300" height="100" />
                 </a>
               </center>
-              <a class="btn btn-sm btn-block order-now btn-success" href="https://campus-elearning-weareshifta.pages.dev/">
+              <a class="btn btn-sm btn-block order-now btn-success" href="https://learning-weare-shifta.pages.dev/">
               <i class="fas fa-shopping-cart"></i> DAFTAR </a>
             </div>
             <div class="col-lg-9" bis_skin_checked="1">
@@ -2472,7 +2472,7 @@ serta dukungan keamanan sistem untuk menciptakan pengalaman bermain yang lebih n
                           <div class="card-body" bis_skin_checked="1">
                             <div class="text-center" bis_skin_checked="1">
                               <h3>SLOT777 | Platform Situs Toto Slot Online Gacor Hari Ini & Bandar Slot88 Terpercaya Gampang Menang!</h3>
-                              <a class="btn btn-primary" data-toggle="modal" href="https://campus-elearning-weareshifta.pages.dev/">DAFTAR</a>
+                              <a class="btn btn-primary" data-toggle="modal" href="https://learning-weare-shifta.pages.dev/">DAFTAR</a>
                             </div>
                           </div>
                         </div>
@@ -8151,11 +8151,11 @@ serta dukungan keamanan sistem untuk menciptakan pengalaman bermain yang lebih n
                       $<span class="price-text">200</span>
                       </span>
                     </h4>
-                    <a class="btn btn-sm btn-block order-now btn-success" href="https://campus-elearning-weareshifta.pages.dev/">
+                    <a class="btn btn-sm btn-block order-now btn-success" href="https://learning-weare-shifta.pages.dev/">
                     <i class="fas fa-shopping-cart"></i> DAFTAR </a>
                   </div>
                 </div>
-                <a href="https://campus-elearning-weareshifta.pages.dev/" target="_blank">
+                <a href="https://learning-weare-shifta.pages.dev/" target="_blank">
                 <img style="display:block;margin-left:auto;margin-right:auto;" src="https://domtoto0.com/images/2025/10/14/domgifdaftar.gif" width="300" height="100" />
                 </a>
                 <br />
