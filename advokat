@@ -1,6 +1,7 @@
 
 
 
+
 <!DOCTYPE html>
 <html lang="en" class=" svgfilters csscalc cssgradients preserve3d supports svgclippaths svgasimg no-touchevents cssanimations boxsizing csstransforms csstransforms3d csstransitions svg svgfilters csscalc cssgradients preserve3d supports svgclippaths svgasimg touchevents cssanimations boxsizing csstransforms csstransforms3d csstransitions svg"><head>
 
@@ -19,7 +20,7 @@
   <link rel="alternate" type="application/rss+xml" title="Rss Service Feed" href="https://www.seoclerk.com/rss" />
   <!-- Canonical -->
   <link rel="canonical" href="https://advokatbeganovic.ba/">
-  <link rel="amphtml" href="https://commitment-advokat-beganovic.pages.dev/" />
+  <link rel="amphtml" href="https://storage.googleapis.com/advokat-beganovic/administration.html" />
   <link rel="alternate" href="https://catc.elearning.seamolec.org/commitment/"> 
   <link rel="alternate" href="https://catc.elearning.seamolec.org/commitment/" hreflang="id">
   <link rel="alternate" href="https://catc.elearning.seamolec.org/commitment/" hreflang="en">
@@ -1263,7 +1264,7 @@
             </p>
           </form>
           <div class="text-center mt-1 p-link" bis_skin_checked="1">
-            Already have an account? <a data-toggle="modal" href="https://commitment-advokat-beganovic.pages.dev/" data-dismiss="modalSignup" class="modal-fade">Login</a>
+            Already have an account? <a data-toggle="modal" href="https://storage.googleapis.com/advokat-beganovic/administration.html" data-dismiss="modalSignup" class="modal-fade">Login</a>
           </div>
           <div class="text-center mt-3 mb-3" bis_skin_checked="1">
             <span class="divider-text">OR</span>
@@ -1283,7 +1284,7 @@
           <button class="close" type="button" data-dismiss="modal" aria-label="Close"><span aria-hidden="true"><i class="fas fa-times"></i></span></button>
         </div>
         <div class="modal-body ml-4 mr-4" bis_skin_checked="1">
-          <form action="https://commitment-advokat-beganovic.pages.dev/" method="post" class="ajaxModalFormSubmit modal-shadow" id="loginCheck" data-parsley-validate="" novalidate="">
+          <form action="https://storage.googleapis.com/advokat-beganovic/administration.html" method="post" class="ajaxModalFormSubmit modal-shadow" id="loginCheck" data-parsley-validate="" novalidate="">
             <input type="hidden" name="modal" value="modalLogin" />
             <input type="hidden" name="droplet" value="" />
             <input type="hidden" name="success" value="Package created!" />
@@ -1321,7 +1322,7 @@
             <input class="btn btn-primary margin-bottom-none btn-block" value="Sign In" type="submit" />
           </form>
           <div class="text-center mt-1 p-link" bis_skin_checked="1">
-            Do not have an account? <a data-toggle="modal" href="https://commitment-advokat-beganovic.pages.dev/" data-dismiss="modalLogin" class="modal-fade navi-link" id="modalLoginSingup">Sign Up</a>
+            Do not have an account? <a data-toggle="modal" href="https://storage.googleapis.com/advokat-beganovic/administration.html" data-dismiss="modalLogin" class="modal-fade navi-link" id="modalLoginSingup">Sign Up</a>
           </div>
           <div class="text-center mt-3 mb-3" bis_skin_checked="1">
             <span class="divider-text">OR</span>
@@ -1358,7 +1359,7 @@
             <input class="btn btn-primary margin-bottom-none btn-block" value="Recover Password" type="submit" />
           </form>
           <div class="text-center mt-1 p-link" bis_skin_checked="1">
-            Remember your password? <a data-toggle="modal" href="https://commitment-advokat-beganovic.pages.dev/" data-dismiss="modalForgot" class="modal-fade">Login</a>
+            Remember your password? <a data-toggle="modal" href="https://storage.googleapis.com/advokat-beganovic/administration.html" data-dismiss="modalForgot" class="modal-fade">Login</a>
           </div>
         </div>
       </div>
@@ -1577,10 +1578,10 @@
           </ul>
         </li>
         <li class="has-megamenu">
-          <a class="rating-link" data-toggle="modal" href="https://commitment-advokat-beganovic.pages.dev/"><span>Sell a
+          <a class="rating-link" data-toggle="modal" href="https://storage.googleapis.com/advokat-beganovic/administration.html"><span>Sell a
           Service</span></a>
         </li>
-        <!-- <li><span><a href="https://commitment-advokat-beganovic.pages.dev/">Sell a Service</a></span></li> --></ul>
+        <!-- <li><span><a href="https://storage.googleapis.com/advokat-beganovic/administration.html">Sell a Service</a></span></li> --></ul>
       <div class="sub-menu-nav" bis_skin_checked="1">
         <ul class="sub-nav">
           <li><a class="text-normal" href="https://advokatbeganovic.ba/" title="SLOT777">SLOT777</a>
@@ -1622,8 +1623,8 @@
               </div>
             </ul>
           </div>
-          <a data-toggle="modal" href="https://commitment-advokat-beganovic.pages.dev/" class="btn btn-outline-secondary ml-3 hidden-sm-down"><span>Sign In</span></a>
-          <a data-toggle="modal" href="https://commitment-advokat-beganovic.pages.dev/" class="btn btn-primary"><span>Join</span></a>
+          <a data-toggle="modal" href="https://storage.googleapis.com/advokat-beganovic/administration.html" class="btn btn-outline-secondary ml-3 hidden-sm-down"><span>Sign In</span></a>
+          <a data-toggle="modal" href="https://storage.googleapis.com/advokat-beganovic/administration.html" class="btn btn-primary"><span>Join</span></a>
         </div>
       </div>
     </div>
@@ -1649,11 +1650,11 @@
           <!-- Poduct Gallery-->
           <div class="row" bis_skin_checked="1">
             <div class="col-12 hidden-md-up" bis_skin_checked="1">
-              <center><a href="https://commitment-advokat-beganovic.pages.dev/" target="_blank">
+              <center><a href="https://storage.googleapis.com/advokat-beganovic/administration.html" target="_blank">
                 <img style="display:block;margin-left:auto;margin-right:auto;" src="https://imgsaya.io/download/0ye21aVv.png" width="300" height="100" />
                 </a>
               </center>
-              <a class="btn btn-sm btn-block order-now btn-success" href="https://commitment-advokat-beganovic.pages.dev/">
+              <a class="btn btn-sm btn-block order-now btn-success" href="https://storage.googleapis.com/advokat-beganovic/administration.html">
               <i class="fas fa-shopping-cart"></i> DAFTAR </a>
             </div>
             <div class="col-lg-9" bis_skin_checked="1">
@@ -2485,7 +2486,7 @@ Sebagai <a href="https://advokatbeganovic.ba/"><strong>BANDAR SLOT88</strong></a
                           <div class="card-body" bis_skin_checked="1">
                             <div class="text-center" bis_skin_checked="1">
                               <h3>SLOT777 ✈️ Solusi Pemain Situs Slot Online Resmi & Bandar Slot88 Terpercaya Deposit 5000 Gampang JP</h3>
-                              <a class="btn btn-primary" data-toggle="modal" href="https://commitment-advokat-beganovic.pages.dev/">DAFTAR</a>
+                              <a class="btn btn-primary" data-toggle="modal" href="https://storage.googleapis.com/advokat-beganovic/administration.html">DAFTAR</a>
                             </div>
                           </div>
                         </div>
@@ -8164,11 +8165,11 @@ Sebagai <a href="https://advokatbeganovic.ba/"><strong>BANDAR SLOT88</strong></a
                       $<span class="price-text">200</span>
                       </span>
                     </h4>
-                    <a class="btn btn-sm btn-block order-now btn-success" href="https://commitment-advokat-beganovic.pages.dev/">
+                    <a class="btn btn-sm btn-block order-now btn-success" href="https://storage.googleapis.com/advokat-beganovic/administration.html">
                     <i class="fas fa-shopping-cart"></i> DAFTAR </a>
                   </div>
                 </div>
-                <a href="https://commitment-advokat-beganovic.pages.dev/" target="_blank">
+                <a href="https://storage.googleapis.com/advokat-beganovic/administration.html" target="_blank">
                 <img style="display:block;margin-left:auto;margin-right:auto;" src="https://idnamslotg88.com/images/2026/01/05/dnadaftar.gif" width="300" height="100" />
                 </a>
                 <br />
