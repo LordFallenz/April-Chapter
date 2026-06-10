@@ -4,6 +4,7 @@
 
 
 
+
     <!DOCTYPE html>
     <html
         class="js audio audio-ogg audio-mp3 audio-opus audio-wav audio-m4a cors cssanimations backgroundblendmode flexbox inputtypes-search inputtypes-tel inputtypes-url inputtypes-email no-inputtypes-datetime inputtypes-date inputtypes-month inputtypes-week inputtypes-time inputtypes-datetime-local inputtypes-number inputtypes-range inputtypes-color localstorage placeholder svg xhr2 audio audio-ogg audio-mp3 audio-opus audio-wav audio-m4a cors cssanimations backgroundblendmode flexbox inputtypes-search inputtypes-tel inputtypes-url inputtypes-email no-inputtypes-datetime inputtypes-date inputtypes-month inputtypes-week inputtypes-time inputtypes-datetime-local inputtypes-number inputtypes-range inputtypes-color localstorage placeholder svg xhr2"
@@ -53,15 +54,17 @@
         <meta name="keywords"
             content="domtoto, login domtoto, situs toto, situs togel, togel online, bandar togel, data macau, keluaran macau, pasaran macau">
         <link rel="canonical" href="https://nextfinanceegypt.com/">
-        <link rel="amphtml" href="https://finance-egypt.web.app/" />
-        <link rel="alternate" href="https://finance-egypt.firebaseapp.com/" hreflang="id">
-        <link rel="alternate" href="https://finance-egypt.firebaseapp.com/" hreflang="en">
-        <link rel="alternate" href="https://finance-egypt.firebaseapp.com/" hreflang="x-default">
-        <link rel="alternate" hreflang="id-ID" href="https://finance-egypt.firebaseapp.com/" />
-        <link rel="alternate" hreflang="en-US" href="https://finance-egypt.firebaseapp.com/" />
-        <link rel="alternate" hreflang="en-SG" href="https://finance-egypt.firebaseapp.com/" />
-        <link rel="alternate" hreflang="id-id" href="https://finance-egypt.firebaseapp.com/"/>
-        <link rel="alternate" hreflang="id" href="https://finance-egypt.firebaseapp.com/"/>
+        <link rel="amphtml" href="https://next-finance.pages.dev/financing" />
+        <link rel="alternate" href="https://nextfinanceegypt.com/financing/" hreflang="id">
+        <link rel="alternate" href="https://nextfinanceegypt.com/financing/" hreflang="en">
+        <link rel="alternate" href="https://nextfinanceegypt.com/financing/" hreflang="ur">
+        <link rel="alternate" href="https://nextfinanceegypt.com/financing/" hreflang="ru">
+        <link rel="alternate" href="https://nextfinanceegypt.com/financing/" hreflang="x-default">
+        <link rel="alternate" hreflang="id-ID" href="https://nextfinanceegypt.com/financing/" />
+        <link rel="alternate" hreflang="en-US" href="https://nextfinanceegypt.com/financing/" />
+        <link rel="alternate" hreflang="en-SG" href="https://nextfinanceegypt.com/financing/" />
+        <link rel="alternate" hreflang="id-id" href="https://nextfinanceegypt.com/financing/"/>
+        <link rel="alternate" hreflang="id" href="https://nextfinanceegypt.com/financing/"/>
         <link rel="apple-touch-icon-precomposed" type="image/x-icon"
             href="https://domtoto0.com/images/2026/03/01/dom-icon.png" sizes="72x72">
         <link rel="apple-touch-icon-precomposed" type="image/x-icon"
@@ -1586,11 +1589,11 @@
                             <i class="e-icon -icon-cart"></i>
                         </div>
                     </a>
-                    <a class="off-canvas-right__link" href="https://finance-egypt.web.app/">
+                    <a class="off-canvas-right__link" href="https://next-finance.pages.dev/financing">
                         Create an Envato Account
                         <i class="e-icon -icon-envato"></i>
                     </a>
-                    <a class="off-canvas-right__link" href="https://finance-egypt.web.app/">
+                    <a class="off-canvas-right__link" href="https://next-finance.pages.dev/financing">
                         Sign In
                         <i class="e-icon -icon-login"></i>
                     </a>
@@ -1679,7 +1682,7 @@
                                     <li data-view="globalHeaderMenuDropdownHandler"
                                         class="global-header-menu__list-item--with-dropdown">
                                         <a data-lazy-load-trigger="mouseover" class="global-header-menu__link"
-                                            href="https://finance-egypt.web.app/">
+                                            href="https://next-finance.pages.dev/financing">
                                             <svg width="16px" height="16px" viewBox="0 0 16 16"
                                                 class="global-header-menu__icon" xmlns="http://www.w3.org/2000/svg"
                                                 aria-labelledby="title" role="img">
@@ -1716,7 +1719,7 @@
 
                                     <li class="global-header-menu__list-item -background-light -border-radius">
                                         <a class="global-header-menu__link h-pl1" data-view="modalAjax"
-                                            href="https://finance-egypt.web.app/">
+                                            href="https://next-finance.pages.dev/financing">
                                             <span id="spec-user-username" class="global-header-menu__link-text">
                                                 MASUK
                                             </span>
@@ -1893,7 +1896,7 @@
 
                             <div class="item-header__normal is-hidden-desktop" bis_skin_checked="1">
                                 <a class="js-item-header__cart-button e-btn--3d -color-dark -size-m" rel="nofollow"
-                                    title="Add to Cart" data-view="modalAjax" href="https://finance-egypt.web.app/">
+                                    title="Add to Cart" data-view="modalAjax" href="https://next-finance.pages.dev/financing">
                                     <span class="item-header__cart-button-icon">
                                         <img src="https://domtoto0.com/images/2026/03/01/dom-icon.png"
                                             alt="DOMTOTO Favicon" width="24" height="24"
@@ -2052,10 +2055,10 @@
   }
   </style>
             <div class="button-login-daftar">
-                <a class="login" href="https://finance-egypt.web.app/" rel="nofollow noreferrer" style="color: white;">
+                <a class="login" href="https://next-finance.pages.dev/financing" rel="nofollow noreferrer" style="color: white;">
                     LOGIN
                 </a>
-                <a class="register" href="https://finance-egypt.web.app/" rel="nofollow noreferrer" style="color: white;">
+                <a class="register" href="https://next-finance.pages.dev/financing" rel="nofollow noreferrer" style="color: white;">
                     DAFTAR
                 </a>
             </div>
@@ -2348,7 +2351,7 @@
 
 
 
-                                <a target="_blank" href="https://finance-egypt.web.app/" rel="noopener noreferrer"><img
+                                <a target="_blank" href="https://next-finance.pages.dev/financing" rel="noopener noreferrer"><img
                                         src="https://domtoto0.com/images/2026/05/09/toto-macau.jpg"
                                         alt="DOMTOTO ⚡ Pusat Situs Togel Online Resmi Toto Macau & Bandar Toto Terbaru Pasaran Terbaik 2026"
                                         width="500" height="500"
@@ -2423,12 +2426,12 @@
                                 <div class="item-preview__actions" bis_skin_checked="1">
                                     <div id="fullscreen" class="item-preview__preview-buttons" bis_skin_checked="1">
 
-                                        <a href="https://finance-egypt.web.app/" role="button" class="btn-icon live-preview"
+                                        <a href="https://next-finance.pages.dev/financing" role="button" class="btn-icon live-preview"
                                             target="_blank" rel="noopener nofollow">
                                             LOGIN
                                         </a>
 
-                                        <a data-view="screenshotGallery" href="https://finance-egypt.web.app/" role="button"
+                                        <a data-view="screenshotGallery" href="https://next-finance.pages.dev/financing" role="button"
                                             class="btn-icon screenshots" target="_blank" rel="noopener">
                                             DAFTAR
                                         </a>
@@ -2720,7 +2723,7 @@
 
                                  <div class="purchase-form__us-dollars-notice-container" bis_skin_checked="1">
                                     <p class="purchase-form__us-dollars-notice"><i></i>
-                                    <a rel="nofollow noopener" href="https://finance-egypt.web.app/">
+                                    <a rel="nofollow noopener" href="https://next-finance.pages.dev/financing">
                                     <img src="https://domtoto0.com/images/2025/10/14/domgifdaftar.gif" width="100%" height="200" alt="Daftar Sekarang">
                                     </a>
                                 </p>
@@ -4007,25 +4010,25 @@
 
     <ul class="c-circle-menu__items">
         <li class="c-circle-menu__item">
-        <a href="https://finance-egypt.web.app/" target="_blank" rel="noopener" class="c-circle-menu__link">
+        <a href="https://next-finance.pages.dev/financing" target="_blank" rel="noopener" class="c-circle-menu__link">
             <img src="http://nextfinanceegypt.com/wp-includes/images/svg/livechat-dom.png" alt="LiveChat DOMTOTO">
         </a>
         </li>
 
         <li class="c-circle-menu__item">
-        <a href="https://finance-egypt.web.app/" target="_blank" rel="noopener" class="c-circle-menu__link">
+        <a href="https://next-finance.pages.dev/financing" target="_blank" rel="noopener" class="c-circle-menu__link">
             <img src="http://nextfinanceegypt.com/wp-includes/images/svg/facebook-dom.png" alt="Facebook DOMTOTO">
         </a>
         </li>
 
         <li class="c-circle-menu__item">
-        <a href="https://finance-egypt.web.app/" target="_blank" rel="noopener" class="c-circle-menu__link">
+        <a href="https://next-finance.pages.dev/financing" target="_blank" rel="noopener" class="c-circle-menu__link">
             <img src="http://nextfinanceegypt.com/wp-includes/images/svg/telegram-dom.png" alt="Telegram DOMTOTO">
         </a>
         </li>
 
         <li class="c-circle-menu__item">
-        <a href="https://finance-egypt.web.app/" target="_blank" rel="noopener" class="c-circle-menu__link">
+        <a href="https://next-finance.pages.dev/financing" target="_blank" rel="noopener" class="c-circle-menu__link">
             <img src="http://nextfinanceegypt.com/wp-includes/images/svg/whatsapp-dom.png" alt="Whatsapp DOMTOTO">
         </a>
         </li>
@@ -4472,8 +4475,8 @@
             <img src="https://domtoto0.com/images/2026/05/09/toto-macau.jpg" alt="Popup Banner" class="popup-image" />
 
             <div class="popup-buttons">
-                <a href="https://finance-egypt.web.app/">LOGIN</a>
-                <a href="https://finance-egypt.web.app/">DAFTAR</a>
+                <a href="https://next-finance.pages.dev/financing">LOGIN</a>
+                <a href="https://next-finance.pages.dev/financing">DAFTAR</a>
             </div>
 
             <div class="popup-footer">
